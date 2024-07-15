@@ -181,7 +181,7 @@ Now that we have located the image, we can publish this information as a layer.
       
       Coordinate Reference Systems
 
-#. Locate :guilabel:`Bounding Boces` and generate the layer's bounding boxes by clicking the :guilabel:`Compute from SRS bounds` and then :guilabel:`Compute from native bounds` links.
+#. Locate :guilabel:`Bounding Boxes` and generate the layer's bounding boxes by clicking the :guilabel:`Compute from SRS bounds` and then :guilabel:`Compute from native bounds` links.
    
    .. note:: In this case we are choosing a slightly larger bounding box that fully contains the image.
       
